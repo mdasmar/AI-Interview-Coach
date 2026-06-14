@@ -51,6 +51,9 @@ Job seekers often do not know whether they can confidently explain the skills li
 - pypdf for resume PDF parsing
 - python-dotenv for local environment configuration
 
+## Architecture Diagram
+-<img width="1024" height="559" alt="Architecture diagram" src="https://github.com/user-attachments/assets/f08814c9-2b6c-4826-88a6-b5d206e411ce" />
+
 ## Project Structure
 
 - `app.py` - Streamlit entry point.
