@@ -1,0 +1,6 @@
+streamlit
+openai
+azure-ai-projects
+azure-identity
+pypdf
+python-dotenv
