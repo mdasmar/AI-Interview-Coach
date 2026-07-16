@@ -9,7 +9,6 @@ Job seekers often do not know whether they can confidently explain the skills li
 ## Key Features
 
 - Resume PDF upload with automatic text extraction.
-![error if resume is not correct](images/S8.png)
 - AI-assisted skill extraction from resume content.
 - Demo Mode for quick hackathon judging without needing a resume.
 - 10-question skill-specific interview with easy, medium, and hard MCQs.
@@ -24,22 +23,12 @@ Job seekers often do not know whether they can confidently explain the skills li
 ## How It Works
 
 1. Upload a PDF resume or enable Demo Mode.
-![with resume](images/S2.png)
-![Demo](images/S10.png)
 2. The app extracts resume text and identifies technical skills.
-![skills](images/S3.png)
 3. Select one skill for the interview.
-![skill selected](images/S4.png)
 4. Answer 10 AI-generated MCQs.
 5. Review the dashboard, report, and interview answers.
-![dashboard](images/S17.png)
-![score](images/S20.png)
-![review](images/S16.png)
 6. If the score is below 10/10, use Practice Weak Areas.
-![weak area practice](images/S11.png)
 7. If the score is 10/10, unlock the Go Beyond hard-question challenge.
-![go beyond pop up](images/S6.png)
-![challenge](images/S23.png)
 
 ## Technology Used
 
