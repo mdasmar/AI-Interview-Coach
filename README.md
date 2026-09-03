@@ -102,8 +102,3 @@ For the fastest judging experience:
 6. Show the dashboard, report, downloadable output, weak-area practice, and 10/10 Go Beyond popup flow.
 
 See `DEMO_STEPS.md` for a judge-friendly walkthrough.
-
-## Notes
-
-- `.env`, `venv/`, Python cache files, logs, and Streamlit secrets are ignored by git.
-- The Azure AI client is initialized lazily, and fallback content keeps the demo stable even when the AI service is unreachable.
